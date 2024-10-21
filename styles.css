@@ -24,6 +24,11 @@ header {
     color: #FF8800; /* Bright Orange */
 }
 
+#hero p {
+    color: white; /* Makes the paragraph text clearer */
+    font-size: 1.2em; /* Adjusts the font size for better readability */
+}
+
 .whatsapp-btn {
     display: inline-block;
     padding: 10px 20px;
